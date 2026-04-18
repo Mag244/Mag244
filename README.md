@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,40:4c1d95,100:312e81&height=165&section=header&text=Mag244&fontSize=46&fontColor=f8fafc&fontAlignY=36&desc=Full-stack%20%E2%80%94%20Web%20and%20Android&descAlignY=62&descAlign=50&descSize=17&descColor=c7d2fe&animation=twinkling" alt="Hero banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,45:047857,100:059669&height=165&section=header&text=Mag244&fontSize=46&fontColor=f8fafc&fontAlignY=36&desc=Full-stack%20%E2%80%94%20Web%20and%20Android&descAlignY=62&descAlign=50&descSize=17&descColor=c7d2fe&animation=twinkling" alt="Hero banner" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,100:a78bfa&height=90&section=header&text=Code%20%C2%B7%20Craft%20%C2%B7%20Consistency&fontSize=22&fontColor=fff&stroke=312e81&strokeWidth=2&animation=scaleIn" alt="Accent strip" width="92%" />
 
