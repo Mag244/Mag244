@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,40:4c1d95,100:312e81&height=165&section=header&text=Mag244&fontSize=46&fontColor=f8fafc&fontAlignY=36&desc=Full-stack%20%E2%80%94%20Web%20%26%20Android&descAlignY=62&descAlign=50&descSize=17&descColor=c7d2fe&animation=twinkling" alt="Hero banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,40:4c1d95,100:312e81&height=165&section=header&text=Mag244&fontSize=46&fontColor=f8fafc&fontAlignY=36&desc=Full-stack%20%E2%80%94%20Web%20and%20Android&descAlignY=62&descAlign=50&descSize=17&descColor=c7d2fe&animation=twinkling" alt="Hero banner" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,100:a78bfa&height=90&section=header&text=Code%20%C2%B7%20Craft%20%C2%B7%20Consistency&fontSize=22&fontColor=fff&stroke=312e81&strokeWidth=2&animation=scaleIn" alt="Accent strip" width="92%" />
 
@@ -82,7 +82,7 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24&height=44&section=footer&text=Skills%20%26%20tools&fontSize=22&fontColor=fff&animation=scaleIn" alt="Skills divider" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,18,24&height=44&section=footer&text=Skills%20%C2%B7%20tools&fontSize=22&fontColor=fff&animation=scaleIn" alt="Skills divider" width="85%" />
 </div>
 
 ## Skills & tools
@@ -122,7 +122,7 @@
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mag244&row=2&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=dracula" alt="GitHub trophies" />
+<img src="https://trophy.ryglcloud.net/?username=Mag244&row=2&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&theme=dracula" alt="GitHub trophies" />
 
 </div>
 
