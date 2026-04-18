@@ -89,15 +89,11 @@
 
 <div align="center">
 
-### Contribution snake
+### Activity graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mag244/Mag244/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mag244/Mag244/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Mag244/Mag244/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mag244&theme=github-compact&hide_border=true&area=true&color=0969da&line=1f883d&point=8250df" alt="GitHub contribution activity graph" width="100%" />
 
-<sub>Анимация появится после первого запуска Actions → «Generate snake contribution grid» (ветка <code>output</code>).</sub>
+<sub>График строится по публичной активности на GitHub, отдельный workflow не нужен.</sub>
 
 </div>
 
